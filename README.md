@@ -22,7 +22,8 @@ The project implements a **fully reproducible, research-grade pipeline** includi
 ✔ Full evaluation (confusion matrix, classification report, JSON metrics)  
 ✔ Organized experiments with versioned checkpoints  
 
-This setup follows **AI engineering standards** expected in advanced ML work.
+Dataset Source (Mendeley Data):  
+🔗 **https://data.mendeley.com/datasets/2nh364p2bc/2**
 
 ---
 
